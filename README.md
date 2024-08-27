@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ordden
 - 👀 I’m interested in music and comedy
 - 🌱 I’m currently learning new stuff
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on usefull full stack development
 - 📫 How to reach me dbpthedj@gmail.com
 - 😄 Pronouns: i don't feel comfortable with this
 - ⚡ Fun fact: I am a cancer
